@@ -1,0 +1,25 @@
+PODS:
+  - FreeStreamer (3.7.3):
+    - Reachability (~> 3.0)
+  - Reachability (3.2)
+
+DEPENDENCIES:
+  - FreeStreamer (from `https://github.com/muhku/FreeStreamer.git`, branch `master`)
+
+EXTERNAL SOURCES:
+  FreeStreamer:
+    :branch: master
+    :git: https://github.com/muhku/FreeStreamer.git
+
+CHECKOUT OPTIONS:
+  FreeStreamer:
+    :commit: 2d6f2493905ff96bb43c05b59363dc44d17c02b8
+    :git: https://github.com/muhku/FreeStreamer.git
+
+SPEC CHECKSUMS:
+  FreeStreamer: d415160f7b5231deb7e4d9e3ebf4076e1d0b5e52
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+
+PODFILE CHECKSUM: 7d3436d4e511bee7032c249e028ced5beaffa044
+
+COCOAPODS: 1.2.1
